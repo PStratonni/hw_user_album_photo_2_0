@@ -51,6 +51,7 @@ body {
 #albums span {
   border-radius: 4px;
   cursor: pointer;
+  padding: 3px 5px;
 }
 #albums span:hover {
   background-color: #e6c4c0;
